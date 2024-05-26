@@ -28,6 +28,7 @@ sudo vim /etc/hostname
 sudo vim /etc/hosts
     127.0.1.1 cloud
 
+
 ----------------------------------------------------------------
 6. "Настроить timezone"
 sudo timedatectl set-timezone Europe/Moscow
